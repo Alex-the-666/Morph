@@ -88,6 +88,25 @@
     "fly|true",
     "hostile"
   ],
+   "iat.entities.mob.EntityCompsognathus": [
+    "hostile"
+  ],
+  "iat.entities.mob.EntityCarnotaurus": [
+    "hostile"
+  ],
+   "iat.entities.mob.EntityCoelophysis": [
+    "hostile"
+  ],
+   "iat.entities.mob.EntitySpinosaurus": [
+    "hostile"
+  ],
+  "iat.entities.mob.EntityVelociraptor": [
+    "hostile"
+  ],
+   "iat.entities.mob.EntityTrilobite": [
+    "climb",
+    "swim|false,1F,1F,true"
+  ],
   "com.xcompwiz.mystcraft.entity.EntityLinkbook": [
     "waterAllergy"
   ],
